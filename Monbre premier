@@ -1,0 +1,7 @@
+        printf("%d est un nombre premier.\n", nombre);
+    } else {
+        printf("%d n'est pas un nombre premier.\n", nombre);
+    }
+
+    return 0;
+}
